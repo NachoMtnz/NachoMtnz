@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1995<br>📚 I'm currently learning C++<br>🎯 Goals: finish a project<br>🎲 Fun fact: A programmer was arrested for writing unreadable code. He refused to comment</p>
+<p align="left">✨ Creating bugs since 1995<br>📚 I'm currently learning rust <br>🎯 Goals: finish a project<br>🎲 Fun fact: A programmer was arrested for writing unreadable code. He refused to comment</p>
 
 ###
 
